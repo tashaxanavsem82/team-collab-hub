@@ -9,7 +9,7 @@ We love contributions from the community!
 4. **Make your changes**: Implement your feature or fix a bug.
 5. **Commit your changes**: `git commit -m 'A brief description of your changes'`
 6. **Push to your branch**: `git push origin feature/your-feature-name`
-7. **Submit a pull request**: Go to the original repository and click on "New Pull Request". Make sure to provide a descriptive title for your pull request and a summary of the changes made. If your pull request addresses multiple changes or features, please list them clearly in your summary.
+7. **Submit a pull request**: Go to the original repository and click on "New Pull Request". Provide a descriptive title for your pull request and a summary of the changes made. If your pull request addresses multiple changes or features, please list them clearly in your summary.
 
 ## Guidelines
 - Write clear and concise commit messages.
